@@ -20,5 +20,10 @@ namespace WpfAppGitHub
         {
             InitializeComponent();
         }
+
+        private void gombbbb_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("gombbbbbbbbbbbb");
+        }
     }
 }
